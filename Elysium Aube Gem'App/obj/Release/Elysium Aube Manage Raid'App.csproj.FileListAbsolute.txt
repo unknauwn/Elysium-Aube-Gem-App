@@ -1,0 +1,21 @@
+C:\Users\Artistiks\Documents\Visual Studio 2017\Projects\Elysium Aube Gem'App\Elysium Aube Gem'App\bin\Release\Elysium Aube Manage Raid'App.exe.config
+C:\Users\Artistiks\Documents\Visual Studio 2017\Projects\Elysium Aube Gem'App\Elysium Aube Gem'App\bin\Release\Elysium Aube Manage Raid'App.exe
+C:\Users\Artistiks\Documents\Visual Studio 2017\Projects\Elysium Aube Gem'App\Elysium Aube Gem'App\bin\Release\Elysium Aube Manage Raid'App.pdb
+C:\Users\Artistiks\Documents\Visual Studio 2017\Projects\Elysium Aube Gem'App\Elysium Aube Gem'App\obj\Release\Elysium_Aube_Manage_Raid_App.Form1.resources
+C:\Users\Artistiks\Documents\Visual Studio 2017\Projects\Elysium Aube Gem'App\Elysium Aube Gem'App\obj\Release\Elysium_Aube_Manage_Raid_App.Properties.Resources.resources
+C:\Users\Artistiks\Documents\Visual Studio 2017\Projects\Elysium Aube Gem'App\Elysium Aube Gem'App\obj\Release\Elysium Aube Manage Raid'App.csproj.GenerateResource.Cache
+C:\Users\Artistiks\Documents\Visual Studio 2017\Projects\Elysium Aube Gem'App\Elysium Aube Gem'App\obj\Release\Elysium Aube Manage Raid'App.exe
+C:\Users\Artistiks\Documents\Visual Studio 2017\Projects\Elysium Aube Gem'App\Elysium Aube Gem'App\obj\Release\Elysium Aube Manage Raid'App.pdb
+C:\Users\Artistiks\documents\visual studio 2017\Projects\Elysium Aube Gem'App\Elysium Aube Gem'App\obj\Release\Elysium Aube Manage Raid'App.csprojResolveAssemblyReference.cache
+C:\Users\Artistiks\documents\visual studio 2017\Projects\Elysium Aube Gem'App\Elysium Aube Gem'App\bin\Release\Google.Apis.Auth.dll
+C:\Users\Artistiks\documents\visual studio 2017\Projects\Elysium Aube Gem'App\Elysium Aube Gem'App\bin\Release\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Artistiks\documents\visual studio 2017\Projects\Elysium Aube Gem'App\Elysium Aube Gem'App\bin\Release\Google.Apis.Core.dll
+C:\Users\Artistiks\documents\visual studio 2017\Projects\Elysium Aube Gem'App\Elysium Aube Gem'App\bin\Release\Google.Apis.dll
+C:\Users\Artistiks\documents\visual studio 2017\Projects\Elysium Aube Gem'App\Elysium Aube Gem'App\bin\Release\Google.Apis.PlatformServices.dll
+C:\Users\Artistiks\documents\visual studio 2017\Projects\Elysium Aube Gem'App\Elysium Aube Gem'App\bin\Release\Google.Apis.Sheets.v4.dll
+C:\Users\Artistiks\documents\visual studio 2017\Projects\Elysium Aube Gem'App\Elysium Aube Gem'App\bin\Release\Newtonsoft.Json.dll
+C:\Users\Artistiks\documents\visual studio 2017\Projects\Elysium Aube Gem'App\Elysium Aube Gem'App\bin\Release\Google.Apis.xml
+C:\Users\Artistiks\documents\visual studio 2017\Projects\Elysium Aube Gem'App\Elysium Aube Gem'App\bin\Release\Google.Apis.Auth.xml
+C:\Users\Artistiks\documents\visual studio 2017\Projects\Elysium Aube Gem'App\Elysium Aube Gem'App\bin\Release\Google.Apis.Core.xml
+C:\Users\Artistiks\documents\visual studio 2017\Projects\Elysium Aube Gem'App\Elysium Aube Gem'App\bin\Release\Google.Apis.Sheets.v4.xml
+C:\Users\Artistiks\documents\visual studio 2017\Projects\Elysium Aube Gem'App\Elysium Aube Gem'App\bin\Release\Newtonsoft.Json.xml

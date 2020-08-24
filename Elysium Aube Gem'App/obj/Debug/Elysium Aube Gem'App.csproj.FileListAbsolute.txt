@@ -1,0 +1,11 @@
+c:\users\artistiks\documents\visual studio 2017\Projects\Elysium Aube Gem'App\Elysium Aube Gem'App\bin\Debug\Elysium Aube Gem'App.exe.config
+c:\users\artistiks\documents\visual studio 2017\Projects\Elysium Aube Gem'App\Elysium Aube Gem'App\bin\Debug\Elysium Aube Gem'App.exe
+c:\users\artistiks\documents\visual studio 2017\Projects\Elysium Aube Gem'App\Elysium Aube Gem'App\bin\Debug\Elysium Aube Gem'App.pdb
+c:\users\artistiks\documents\visual studio 2017\Projects\Elysium Aube Gem'App\Elysium Aube Gem'App\obj\Debug\Elysium Aube Gem'App.csprojResolveAssemblyReference.cache
+c:\users\artistiks\documents\visual studio 2017\Projects\Elysium Aube Gem'App\Elysium Aube Gem'App\obj\Debug\Elysium_Aube_Gem_App.Form1.resources
+c:\users\artistiks\documents\visual studio 2017\Projects\Elysium Aube Gem'App\Elysium Aube Gem'App\obj\Debug\Elysium_Aube_Gem_App.Properties.Resources.resources
+c:\users\artistiks\documents\visual studio 2017\Projects\Elysium Aube Gem'App\Elysium Aube Gem'App\obj\Debug\Elysium Aube Gem'App.csproj.GenerateResource.Cache
+c:\users\artistiks\documents\visual studio 2017\Projects\Elysium Aube Gem'App\Elysium Aube Gem'App\obj\Debug\Elysium Aube Gem'App.exe
+c:\users\artistiks\documents\visual studio 2017\Projects\Elysium Aube Gem'App\Elysium Aube Gem'App\obj\Debug\Elysium Aube Gem'App.pdb
+C:\Users\Artistiks\documents\visual studio 2017\Projects\Elysium Aube Gem'App\Elysium Aube Gem'App\bin\Debug\KopiLua.dll
+C:\Users\Artistiks\documents\visual studio 2017\Projects\Elysium Aube Gem'App\Elysium Aube Gem'App\bin\Debug\NLua.dll

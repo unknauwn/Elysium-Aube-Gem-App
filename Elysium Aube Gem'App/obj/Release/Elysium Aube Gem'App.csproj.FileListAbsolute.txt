@@ -1,0 +1,10 @@
+C:\Users\Artistiks\documents\visual studio 2017\Projects\Elysium Aube Gem'App\Elysium Aube Gem'App\bin\Release\Elysium Aube Gem'App.exe.config
+C:\Users\Artistiks\documents\visual studio 2017\Projects\Elysium Aube Gem'App\Elysium Aube Gem'App\bin\Release\Elysium Aube Gem'App.exe
+C:\Users\Artistiks\documents\visual studio 2017\Projects\Elysium Aube Gem'App\Elysium Aube Gem'App\bin\Release\Elysium Aube Gem'App.pdb
+C:\Users\Artistiks\documents\visual studio 2017\Projects\Elysium Aube Gem'App\Elysium Aube Gem'App\bin\Release\LsonLib.dll
+C:\Users\Artistiks\documents\visual studio 2017\Projects\Elysium Aube Gem'App\Elysium Aube Gem'App\obj\Release\Elysium_Aube_Gem_App.Form1.resources
+C:\Users\Artistiks\documents\visual studio 2017\Projects\Elysium Aube Gem'App\Elysium Aube Gem'App\obj\Release\Elysium_Aube_Gem_App.Properties.Resources.resources
+C:\Users\Artistiks\documents\visual studio 2017\Projects\Elysium Aube Gem'App\Elysium Aube Gem'App\obj\Release\Elysium Aube Gem'App.csproj.GenerateResource.Cache
+C:\Users\Artistiks\documents\visual studio 2017\Projects\Elysium Aube Gem'App\Elysium Aube Gem'App\obj\Release\Elysium Aube Gem'App.exe
+C:\Users\Artistiks\documents\visual studio 2017\Projects\Elysium Aube Gem'App\Elysium Aube Gem'App\obj\Release\Elysium Aube Gem'App.pdb
+C:\Users\Artistiks\documents\visual studio 2017\Projects\Elysium Aube Gem'App\Elysium Aube Gem'App\obj\Release\Elysium Aube Gem'App.csprojResolveAssemblyReference.cache
